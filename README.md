@@ -1,6 +1,3 @@
----
-title: readme
----
 #welcome to my blog
 
 this is a sample portfolio.
