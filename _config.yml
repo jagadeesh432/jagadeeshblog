@@ -1,1 +1,11 @@
+# basic options
+title: jagadeeshportfolio
+author: jagadeesh
+email: kotavenkatajagadeesh5@gmail.com
+description: A small description about myself
+twitter_username: jaga_deesh5555
+github_username:  jagadeesh432
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-merlot
