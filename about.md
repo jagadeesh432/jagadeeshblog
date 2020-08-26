@@ -1,7 +1,8 @@
 ---
+layout: page
 title: About
 ---
 
-# About this project
+#just a simple github page
 
 In a word: **Awesome!**
