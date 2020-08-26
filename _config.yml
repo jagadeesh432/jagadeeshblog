@@ -8,4 +8,4 @@ github_username:  jagadeesh432
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
