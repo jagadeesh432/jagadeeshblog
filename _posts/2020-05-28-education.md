@@ -1,4 +1,8 @@
-#experience#
+---
+layout : post
+title : educational experience
+---
+
 
 Hi there,This is jagadish.
 this post is about my educational experience.How it came all the way from an upside position to almost nothing left to go below.
