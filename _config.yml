@@ -7,6 +7,5 @@ twitter_username: jaga_deesh5555
 github_username:  jagadeesh432
 
 # Build settings
-backgroundcolor : #808080
 markdown: kramdown
 theme: minima
