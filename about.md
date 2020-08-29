@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About
+layout : home
+title : About
 ---
 
 #just a simple github page
