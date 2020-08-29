@@ -9,4 +9,4 @@ github_username:  jagadeesh432
 # Build settings
 bgcolor : #808080
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
