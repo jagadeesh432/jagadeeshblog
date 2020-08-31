@@ -2,7 +2,7 @@
 layout : page
 title : educational experience
 categories : education update
-permalink : "jagadish.edu"
+permalink : "jagadish"
 ---
 
 
