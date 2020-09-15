@@ -1,4 +1,10 @@
-Education:
+---
+layout : page
+title : "Education"
+permalink : "/blogpost/education"
+---
+
+##Education:##
 
 Since April 2017-Sir C R Reddy College Of Engineering Eluru
 I am pursuing b.tech with current cgpa of 7.0
