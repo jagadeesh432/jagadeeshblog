@@ -1,7 +1,7 @@
 ---
 layout : page
 title : "Education"
-permalink : "/blogpost/education.html"
+permalink : "/blogpost/education.md"
 ---
 
 Since April 2017-Sir C R Reddy College Of Engineering Eluru
